@@ -8,3 +8,6 @@ In your proyect run:
 ```
 npx ngx-angular-migration-signal-helper --src='src/to/component/folder'   
 ```
+
+
+next step give support for nx project and libs
