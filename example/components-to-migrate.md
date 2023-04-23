@@ -1,0 +1,7 @@
+- app-component-a
+- [ ] components/component-b/component-b.html
+- [ ] components/component-c/component-c.html
+- app-component-c
+- [ ] components/component-b/component-b.html
+- app-component-b
+- [ ] components/component-c/component-c.html
