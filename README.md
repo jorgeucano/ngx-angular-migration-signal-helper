@@ -4,7 +4,7 @@ Helper to search the components you need migrate to Signals and the template use
 
 How to use:
 
-In your proyect run: 
+In your project run: 
 ```
 npx ngx-angular-migration-signal-helper --src='src/to/component/folder'   
 ```
